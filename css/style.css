@@ -1,0 +1,32 @@
+h1{
+	background-color: #16c79a;
+	text-align: center;
+}
+h2{
+	background-color: #af0069;
+	text-align: center;
+}
+.header, .hero, .body, .bar, .footer{
+	background-color: #ff9a76;
+	padding: 10px 0;
+	margin-bottom: 10px;
+}
+.box{
+	margin-bottom: 4px;
+	min-height: 70px;
+	background: linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);
+	border: 10px solid black;
+	font-size: 50px;
+	color: black;
+}
+.box2{
+	margin-bottom: 4px;
+	min-height: 70px;
+	background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
+	border: 10px solid black;
+	font-size: 50px;
+	color: black;
+}
+.white{
+	background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+}
